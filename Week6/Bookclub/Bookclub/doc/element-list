@@ -1,0 +1,7 @@
+com.bookclub
+com.bookclub.model
+com.bookclub.security
+com.bookclub.service
+com.bookclub.service.dao
+com.bookclub.service.impl
+com.bookclub.web

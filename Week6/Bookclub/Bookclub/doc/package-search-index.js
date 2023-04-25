@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bookclub"},{"l":"com.bookclub.model"},{"l":"com.bookclub.security"},{"l":"com.bookclub.service"},{"l":"com.bookclub.service.dao"},{"l":"com.bookclub.service.impl"},{"l":"com.bookclub.web"}];updateSearchResults();
